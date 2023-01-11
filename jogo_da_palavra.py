@@ -1,8 +1,11 @@
 # jogo da palavra
 
+
 #teste colaboração no código
 def eh_uma_substring(sub,palavra): #verifica se a subtring pertence a palavra
     return sub in palavra
+#alteração só para fazer um push
+
 def percorre_string(palavra2,palavra): #percorre uma substring
     ind1 = 0 #índice inicial
     ind2 = ind1+3 #índice final
