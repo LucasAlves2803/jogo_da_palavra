@@ -1,4 +1,6 @@
 # jogo da palavra
+
+#teste colaboração no código
 def eh_uma_substring(sub,palavra): #verifica se a subtring pertence a palavra
     return sub in palavra
 def percorre_string(palavra2,palavra): #percorre uma substring
